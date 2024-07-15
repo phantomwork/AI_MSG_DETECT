@@ -63,19 +63,6 @@ Above are the instances from the analysis I did :anchor:
 > [!NOTE]
 > :bulb: The complete PDF analysis of mine can be accessed [here](https://drive.google.com/file/d/18G5C3skP-vLt-l6ihj83CP1ZoNbguXQc/view?usp=drive_link) :saxophone:
 
-# Youtube Video Explanation :cactus:
-
-I did a complete video explaining the analysis I had done, as words speak more than text. It would give a better understanding of how I structured the pipeline, and what exactly was my thought process during the course of action. The videos can be accessed here 
-
-[<img src="https://plus.unsplash.com/premium_photo-1701094771979-e4042ee524d0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8fA%3D%3D" width="600" height="300"
-/>](https://youtu.be/F2Zj1uHo0hs?si=pxLdbzHyCkYCXY5i)
-
-[<img src="https://plus.unsplash.com/premium_photo-1670106461988-039155ad1cbf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyN3x8fGVufDB8fHx8fA%3D%3D" width="600" height="300"
-/>](https://youtu.be/kUS1GSaEm10?si=qNCRy-AgkYh8QVKv)
-
-> [!NOTE]
-> :bulb: Click on the images above and they would route you towards the video. Do hit a like if u liked my explanation and share it if possible hehe (usual youtuber line hehe).
-
 # Edge Cases :bulb:
 ![possible_edge_case (1)](https://github.com/beingamanforever/LLM-Text-Detection/assets/121532863/f974b601-5893-41ab-b832-2a9e70cb6295)
 
@@ -185,7 +172,4 @@ Also we can use this awsome notebook to find the number of typos in the dataset 
 - https://arxiv.org/pdf/1906.04043v1.pdf
   
 ## Secondary Project Ideas & Report of the project work
-The model can be deployed end-to-end or using FLASK we may form an API, for users to directly use the model. For accessing the detailed report of the project refer to the LaTeX documentation [here](https://www.overleaf.com/read/rnqchkvmkjqb#2a1407) 
-
-## Author
-[Aman Behera](https://github.com/beingamanforever) , IIT Roorkee - if u have any suggestions do let me know at aman_b@ch.iitr.ac.in :hamster:
+The model can be deployed end-to-end or using FLASK or Django we may form an API, for users to directly use the model. For accessing the detailed report of the project refer to the LaTeX documentation [here](https://www.overleaf.com/read/rnqchkvmkjqb#2a1407) 
